@@ -35,6 +35,7 @@ def test_view_product(browserSetup,username,password,item):
 
 
     #Testing GitHub
+    #Testing GitHub from Pycharm
 
 
 
