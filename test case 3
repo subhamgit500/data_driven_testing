@@ -1,0 +1,29 @@
+Test Case 3 – Register New User and Logout
+
+Test Objective:
+Verify that a new user can register successfully and log out.
+
+Test Steps:
+
+    Launch the website https://automationexercise.com/
+
+    Click on Signup / Login from the menu.
+
+    In the New User Signup section, enter a name and a unique email.
+
+    Click Signup.
+
+    Fill out the required registration details (password, DOB, address, etc.).
+
+    Click Create Account.
+
+    Verify that a success message “Account Created!” appears.
+
+    Click Continue and verify user is logged in.
+
+    Click Logout from the menu.
+
+    Verify that user is redirected to login page.
+
+Expected Result:
+New user should be registered successfully, automatically logged in, and able to log out.

@@ -1,0 +1,23 @@
+Test Case 1 – Login and Logout
+
+Test Objective:
+Verify that a registered user can successfully log in and log out.
+
+Test Steps:
+
+    1. Launch the browser and open https://automationexercise.com/
+
+    2. Click on “Signup / Login” link in the top menu.
+
+    3. Enter a valid email and password in the login section.
+
+    4. Click on Login button.
+
+    5. Verify that “Logged in as [username]” is displayed.
+
+    6. Click on Logout from the top menu.
+
+    7. Verify that the login page is displayed again.
+
+Expected Result:
+User should be able to log in successfully and log out without any error.

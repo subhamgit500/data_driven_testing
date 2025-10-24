@@ -1,0 +1,25 @@
+Test Case 2 – Login → Perform Action → Logout
+
+Test Objective:
+Verify that a logged-in user can access and view products before logging out.
+
+Test Steps:
+
+    Open the website https://automationexercise.com/
+
+    Click Signup / Login and log in with valid credentials.
+
+    After login, click on the Products tab.
+
+    Verify that the “All Products” page is displayed.
+
+    Click on any product to view details.
+
+    Verify that product details (name, price, description) are visible.
+
+    Click on Logout from the top menu.
+
+    Verify that user is redirected to the login page.
+
+Expected Result:
+User should be able to log in, view product details, and log out successfully.
