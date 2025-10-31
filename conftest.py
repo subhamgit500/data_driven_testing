@@ -1,7 +1,10 @@
 import time
 
 import pytest
+from select import select
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+
 
 @pytest.fixture
 def browserSetup():
@@ -17,3 +20,4 @@ def browserSetup():
     yield driver
 
     driver.quit()
+
